@@ -9,4 +9,4 @@ This repository was created as a simple test to practice Python basics and learn
 The project contains a simple Python script that prints a message to the terminal:
 
 ```python
-print("Hello World, its my Pythons test for my Github!")0
+print("Hello World, its my Pythons test for my Github!")
